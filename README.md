@@ -22,9 +22,13 @@ Churn (0 = No, 1 = Yes).
 google colab file .ipynb.
 # Requirements
 Python 3.7+
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 Matplotlib
 # Model Development
 1. Data Preprocessing
